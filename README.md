@@ -34,7 +34,8 @@ IBM Certified Architect
 AI Strategy • Enterprise Platforms • Agentic AI • Platform Engineering • Data Governance • Digital Insurance Ecosystems • Scalable Architecture
 
 🤝 **Connect With Me**
-LinkedIn: LinkedIn Profile
+LinkedIn: www.linkedin.com/in/abhishek-ambastha
+
 Email: abhishek.ambastha@gmail.com
 
 <!--
