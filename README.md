@@ -1,4 +1,5 @@
-Hi there, I'm Abhishek 
+**Hi there, I'm Abhishek**
+
 Technology executive focused on building AI-first digital platforms, enterprise-scale data ecosystems, and modern engineering organizations for regulated industries.
 Currently leading Digital, Data & AI Platforms at India’s largest health insurer, driving transformation programs that power 65%+ of business revenue and deliver measurable impact through AI, automation, cloud-native platforms, and large-scale modernization initiatives.
 
